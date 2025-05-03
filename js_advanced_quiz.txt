@@ -1,0 +1,35 @@
+1)6
+8
+
+2) true
+
+3)
+1
+3
+2
+
+4)
+no out put
+صح 
+
+5)
+20
+NaN
+
+6)
+Orange
+صح 
+7)
+Error , NOT A FUNCTION
+
+8)
+true 
+true 
+false 
+true
+
+9)
+Lydia 21
+
+10)undefined
+number
